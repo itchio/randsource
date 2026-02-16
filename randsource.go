@@ -30,10 +30,3 @@ func (rr Reader) Read(sink []byte) (int, error) {
 		tail += copy(sink[tail:head], buf)
 	}
 }
-
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}

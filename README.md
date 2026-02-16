@@ -1,7 +1,7 @@
 # randsource
 
-[![Build Status](https://travis-ci.org/itchio/randsource.svg?branch=master)](https://travis-ci.org/itchio/randsource)
-[![GoDoc](https://godoc.org/github.com/itchio/randsource?status.svg)](https://godoc.org/github.com/itchio/randsource)
+[![Test](https://github.com/itchio/randsource/actions/workflows/test.yml/badge.svg)](https://github.com/itchio/randsource/actions/workflows/test.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/itchio/randsource.svg)](https://pkg.go.dev/github.com/itchio/randsource)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/itchio/randsource/blob/master/LICENSE)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
